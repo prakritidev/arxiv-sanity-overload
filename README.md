@@ -1,7 +1,6 @@
 ## Steps to install
 
-```npm install```
-
-```npm i nodemon -g```
-
-```nodemon```
+1. ```npm install```
+2. ```npm i nodemon -g```
+3. ```nodemon```
+4. Server running on ```localhost:3000```
